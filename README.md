@@ -1,3 +1,6 @@
+## Hello 👋, I'm Barath
+
+
 # 💫 About Me:
 
 I’m a Computer Science student passionate about technology, problem-solving, and continuous learning.<br><br>
@@ -46,14 +49,6 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraththanigai&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baraththanigai&show_icons=true&locale=en&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baraththanigai&show_icons=true&locale=en&layout=compact&theme=dark" />
 </p>
 
 ---
