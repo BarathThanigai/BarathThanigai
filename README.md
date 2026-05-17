@@ -1,6 +1,6 @@
 # Hi 👋, I'm Barath
 
-## About ME
+## About Me
 
 I'm a Computer Science student passionate about technology, problem-solving, and continuous learning, with a strong interest in building practical and impactful projects. 
 
