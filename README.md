@@ -1,7 +1,4 @@
-## Hello 👋, I'm Barath
-
-
-# 💫 About Me:
+# Hello 👋, I'm Barath
 
 I’m a Computer Science student passionate about technology, problem-solving, and continuous learning.<br><br>
 I enjoy building practical and impactful projects while exploring new tools and technologies across full-stack development, data science, and software engineering.<br><br>
