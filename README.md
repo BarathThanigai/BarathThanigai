@@ -9,6 +9,7 @@ I enjoy exploring new tools and technologies, improving my skills through hands-
 I am always eager to learn, collaborate with others, and work on projects that combine creativity, innovation, and real-world applications.
 
 
+<h3 align="left">GitHub Trphies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baraththanigai" alt="baraththanigai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
