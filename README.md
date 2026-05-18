@@ -37,8 +37,9 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -53,9 +54,3 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 # 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=baraththanigai\&theme=darkhub)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baraththanigai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=baraththanigai&icon=0&color=6)](https://visitcount.itsvg.in)
