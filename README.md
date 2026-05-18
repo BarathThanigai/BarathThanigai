@@ -46,7 +46,7 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraththanigai&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraththanigai&theme=bright&hide_border=true" />
 </p>
 
 ---
