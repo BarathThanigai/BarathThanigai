@@ -54,10 +54,8 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=baraththanigai\&theme=darkhub)
 
-<!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=baraththanigai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=baraththanigai&icon=0&color=6)](https://visitcount.itsvg.in)
--->
