@@ -1,7 +1,7 @@
 # Hello 👋, I'm Barath
 
 I’m a Computer Science student passionate about technology, problem-solving, and continuous learning.<br><br>
-I enjoy building practical and impactful projects while exploring new tools and technologies across full-stack development, data science, artificial intelligence and software engineering.<br><br>
+I enjoy building practical and impactful projects while exploring new tools and technologies across full-stack development, data science, artificial intelligence, machine learning and software engineering.<br><br>
 Through hands-on experience, I continuously work on improving my technical skills and taking on challenges that help me grow both personally and professionally.<br><br>
 I’m always eager to learn, collaborate with others, and contribute to projects that combine creativity, innovation, and real-world applications.
 
