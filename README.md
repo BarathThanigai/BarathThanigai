@@ -48,9 +48,9 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraththanigai&theme=bright&hide_border=true" />
 </p>
-
-![Stats](https://github-states-generator.vercel.app/api?username=BarathThanigai&show_icons=true&bg_color=ffffff)
-
+<center>
+  ![Stats](https://github-states-generator.vercel.app/api?username=BarathThanigai&show_icons=true&bg_color=ffffff)
+</center>
 
 ---
 
