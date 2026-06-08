@@ -53,4 +53,4 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 
 # 🏆 GitHub Trophies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarathThanigai&show_icons=true&theme=dark)          //Deployment currently paused for this
+![trophy](https://github-trophies.vercel.app/?username=BarathThanigai)
