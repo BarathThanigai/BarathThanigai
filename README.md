@@ -12,7 +12,6 @@ I’m always eager to learn, collaborate with others, and contribute to projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/barath-t-4361b8318/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/contactmebarath)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/u/barath_2006/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:contactmebarath@gmail.com)
 
 ---
 
