@@ -5,7 +5,8 @@ I enjoy building practical and impactful projects while exploring new tools and 
 Through hands-on experience, I continuously work on improving my technical skills and taking on challenges that help me grow both personally and professionally.<br><br>
 I’m always eager to learn, collaborate with others, and contribute to projects that combine creativity, innovation, and real-world applications.
 
-**Visit my Portfolio Webpage** - https://barath-portfolio-psi.vercel.app/
+Visit my Portfolio Webpage - https://barath-portfolio-psi.vercel.app/
+
 ---
 
 # 🌐 Socials:
