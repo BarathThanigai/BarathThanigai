@@ -1,6 +1,8 @@
 <div align="center">
 
-![BARATH](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BARATH&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=100&lines=%3E+BARATH_%3C;Full+Stack+Developer;Data+%26+AI+Explorer;Building+Things+That+Matter" />
+</p>
 
 <br/>
 
