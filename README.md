@@ -25,16 +25,16 @@
 ## `$ whoami`
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  guest@barath-dev:~$ whoami                                   │
+┌─────────────────────────────────────────────────────────────────┐
+│  guest@barath-dev:~$ whoami                                     │
 │                                                                 │
-│  > Barath                                                      │
-│  > Computer Science Student                                    │
-│  > Full Stack Developer                                        │
-│  > Data Science Enthusiast                                     │
+│  > Barath                                                       │
+│  > Computer Science Student                                     │
+│  > Full Stack Developer                                         │
+│  > Data Science Enthusiast                                      │
 │  > AI / ML Explorer                                             │
 │                                                                 │
-│  I'm passionate about technology, problem-solving, and         │
+│  I'm passionate about technology, problem-solving, and          │
 │  continuous learning. I enjoy building practical, impactful     │
 │  projects while exploring full-stack development, data          │
 │  science, AI/ML, and software engineering. I'm always eager     │
@@ -42,7 +42,7 @@
 │  combine creativity, innovation, and real-world applications.   │
 │                                                                 │
 │  > Build. Learn. Experiment. Repeat.                            │
-└──────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
