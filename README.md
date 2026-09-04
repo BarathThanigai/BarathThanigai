@@ -31,7 +31,7 @@
 │  guest@barath-dev:~$ whoami                                     │
 │                                                                 │
 │  > Barath                                                       │
-│  > Computer Science Student                                     │
+│  > Computer Science Student at VIT - Chennai                    │
 │  > Full Stack Developer                                         │
 │  > Data Science Enthusiast                                      │
 │  > AI / ML Explorer                                             │
