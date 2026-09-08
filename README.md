@@ -204,6 +204,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&fontSize=16&fontColor=00F0FF&fontAlignY=75&animation=fadeIn"/>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=BarathThanigai&color=00F0FF&style=flat&label=Profile+Views" /></p>
-
 </div>
