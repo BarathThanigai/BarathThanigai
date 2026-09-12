@@ -104,50 +104,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
 
-## `$ ls ./featured-projects`
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 CricLens
-**Intelligent IPL Analytics & Decision Support Platform**
-> *"From every ball to every insight."*
-
-`R` `Shiny` `Data Analytics` `NVIDIA NIM`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 ChronicleAI
-**AI-Powered Organizational Memory Platform**
-
-`AI` `RAG` `Knowledge Graph` `Full Stack`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕸️ WebScope
-**Concurrent Web Crawler**
-
-`FastAPI` `asyncio` `aiohttp` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Data & BI Projects
-**Analytics & Predictive Modeling**
-
-`Python` `Pandas` `Power BI` `Scikit-learn`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
-
 ## `$ analytics --dashboard`
 
 <div align="center">
