@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://barath-portfolio-psi.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Building+%7C+Learning+%7C+Experimenting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Data+Science+Enthusiast;Exploring+%2F+AI+ML;Building+%7C+Learning+%7C+Experimenting" alt="Typing SVG" />
 </a>
 
 <br/><br/>
